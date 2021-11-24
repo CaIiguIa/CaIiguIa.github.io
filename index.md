@@ -1,5 +1,3 @@
-# Szymon Jurecki
-
 ## About me
 
 I'm a Computer Science student at AGH university, and I'm taking my first steps in the world of GitHub 
